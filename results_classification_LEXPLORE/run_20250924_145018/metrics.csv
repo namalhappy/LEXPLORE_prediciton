@@ -1,0 +1,2 @@
+accuracy,precision_macro,recall_macro,f1_macro,roc_auc,best_cv_score_f1_macro,best_index_cv,target_column,n_train,n_test
+0.8848230353929214,0.7886424238107109,0.7104786133341244,0.7372285049087752,0.9651690563182944,0.7382970678332534,30,label,6668,1667
